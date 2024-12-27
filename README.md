@@ -28,7 +28,7 @@ python -m pip install pip==21
 
 ### Step 2: Install the package using pip  
 ```bash
-pip install git+https://github.com/Anjali-2215/SACopters.git
+pip install git+https://github.com/Anjali-2215/Quadcopter-Control.git
 ```  
 
 ### Step 3: Run the game  
